@@ -5,4 +5,4 @@ Sometimes, I code other fun projects as well, such as those related to music com
 
 I can code in Python, C or C++. Fortran is also fine, but it's probably about time to let go of that one.
 
-[orbitSim3D](https://github.com/arda-guler/orbitSim3D) is probably my "flagship" repository.
+[orbitSim3D](https://github.com/arda-guler/orbitSim3D) is probably my "flagship" programming project.
