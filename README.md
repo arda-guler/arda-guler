@@ -5,4 +5,4 @@ Sometimes, I code other fun projects as well, such as those related to music com
 
 I can code in Python, C or C++.
 
-[Kozmoworks](https://github.com/arda-guler/Kozmoworks) is an astrodynamics simulator and is my current "flagship" programming project, replacing [orbitSim3D](https://github.com/arda-guler/orbitSim3D).
+[orbitSim3D](https://github.com/arda-guler/orbitSim3D) is an astrodynamics/space mission simulator and is my current "flagship" programming project, as is its sister project [Kozmoworks](https://github.com/arda-guler/Kozmoworks).
