@@ -1,8 +1,8 @@
 ### Hi!
-I'm a mechanical engineering student. I code simulations to recreate, observe, understand and analyze engineering designs or natural physical systems in the digital universe. I have a special interest in astronomy and space technologies, and I enjoy programming a lot.
+I usually create simulations to recreate, observe, understand and analyze natural physical systems or engineering designs in the digital universe. I have a special interest in astronomy and space technologies, and I enjoy programming a lot.
 
-Sometimes, I code other fun projects as well, such as those related to music composition. Open source ftw.
+Sometimes, I create other fun projects as well, such as those related to art and music. Open source ftw.
 
-I can code in Python, C or C++.
+I can use Python, C or C++ with relative confidence, and I am somewhat familiar with Lua and x86 Assembly (for typical home-computer architecture). I can use MATLAB too, but given the opportunity, I'd prefer using Python to do anything MATLAB can do.
 
-[orbitSim3D](https://github.com/arda-guler/orbitSim3D) is an astrodynamics/space mission simulator and is my current "flagship" programming project, as is its sister project [Kozmoworks](https://github.com/arda-guler/Kozmoworks).
+[orbitSim3D](https://github.com/arda-guler/orbitSim3D) is an astrodynamics/space mission simulator and is my current "flagship" programming project.
